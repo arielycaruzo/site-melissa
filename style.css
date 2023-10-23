@@ -1,0 +1,36 @@
+body {
+	background: #6da1f0. 
+}
+
+.principal {
+	padding: 30px;
+}
+
+#banner {
+	width: 100%;
+}
+
+h1 {
+	text-align: center;
+}
+
+.titulo-principal {
+    padding-left: 20px;
+}
+
+.titulo-centralizado {
+	text-align: center;
+}
+
+p {
+	text-align: justify;
+	font-size: 20px;
+}
+
+.textomaior {
+	font-size: 40px;
+}
+
+em strong {
+	color: #e215ab
+}
